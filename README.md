@@ -1,5 +1,5 @@
 # Data-Analysis
-1)In Covid data analysis did exploratory data analysis visualized data through heatmap,bar plot,pairplot found answer to below questions
+1)In Covid data analysis did exploratory data analysis visualized data through heatmap,bar plot,pairplot found answer to below questions<br>
  &nbsp;&nbsp;&nbsp;a)State having **highest number of covid cases** in India <br>
  &nbsp;&nbsp;&nbsp;b)State having **Lowest number of covid cases** in India.<br>
  &nbsp;&nbsp;&nbsp;c)State having **highest number of Active cases** in India.<br>
