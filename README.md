@@ -18,3 +18,10 @@
 &nbsp;&nbsp;&nbsp;d)**Which departure airport has the highest average departure delay**?<br>
 &nbsp;&nbsp;&nbsp;e)**Which route (from origin airport to destination airport) has the most late arrivals**?<br>
 &nbsp;&nbsp;&nbsp;f)**Which route has the highest average arrival delay**?<br>
+
+3)In **Tokyo data analysis** did exploratory data analysis<br>
+&nbsp;&nbsp;&nbsp;a)Medals won by countries<br>
+&nbsp;&nbsp;&nbsp;b)Top 15 countries who have won **gold medals**<br>
+&nbsp;&nbsp;&nbsp;c)Top 15 countries who have won **solver medals**<br>
+&nbsp;&nbsp;&nbsp;d)How much **medals India wo**n <br>
+&nbsp;&nbsp;&nbsp;Visualized data through different graph<br>
